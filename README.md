@@ -1,3 +1,4 @@
 # mydemo
 Demo git repository
-Autor - Aarav Oswal
+<br>
+Author - Aarav Oswal
