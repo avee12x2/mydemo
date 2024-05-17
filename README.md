@@ -1,6 +1,6 @@
 # mydemo
 Demo git repository
 <br>
-Author - Aarav Oswal
+Author - Aarav (IITK)
 <br>
-Another Edit
+Another Edit NO 2
